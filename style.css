@@ -3,15 +3,14 @@ body{
     background-color: #fdfdfd;
 
 }
-#Id
+#imagem
 <!---
 PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
 --->
-
 {
     width: 50%;
   <!---
-quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
+quando utilizamos 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
 --->
 }
 
@@ -20,7 +19,7 @@ h1{
   <!---
 define a altura do título principal
 --->
-    color: #cbaacb;
+    color: #D297e2;
         
   <!---
 define a cor do título principal
@@ -36,8 +35,9 @@ define a altura do título principal
   font-style: italic;
  
 }
+
 h2{
-    Color:   #D02C0F
+    Color:   #D297e2;
  <!---
 define a cor do segundo título
 --->
