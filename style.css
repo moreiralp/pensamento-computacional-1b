@@ -16,29 +16,14 @@ quando utilizamos 100% deixamos a imagem escolhida com 100% de largura da tela, 
 
 h1{
   height: 150px;
-  <!---
-define a altura do título principal
---->
-    color: #D297e2;
+  color: #D297e2;
         
-  <!---
-define a cor do título principal
---->
   background-color:  #EDC100;
- <!---
-define a cor de fundo do título principal
---->
   font-size: 80px;
-   <!---
-define a altura do título principal
---->
+
   font-style: italic;
  
 }
 
 h2{
-    Color:   #D297e2;
- <!---
-define a cor do segundo título
---->
-}
+  Color:   #D297e2;
