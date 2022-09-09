@@ -4,41 +4,41 @@ body{
 
 }
 #imagem
-<!---
-PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
---->
+
+
 {
-    width: 50%;
-  <!---
-quando utilizamos 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
---->
+    width: 45%;
+  
+
 }
 
 h1{
-  height: 150px;
-  <!---
-define a altura do título principal
---->
-    color: #D297e2;
+  height: 50px;
+
+    color: 
+    #7600e0;
         
-  <!---
-define a cor do título principal
---->
-  background-color:  #EDC100;
- <!---
-define a cor de fundo do título principal
---->
-  font-size: 80px;
-   <!---
-define a altura do título principal
---->
+  
+
+  background-color:  #faeeb8;
+ 
+
+  font-size: 40px;
+  
+
   font-style: italic;
  
 }
 
 h2{
     Color:   #D297e2;
- <!---
-define a cor do segundo título
---->
+ 
+
+
+}
+h3{
+  Color:   #Fff645;
+
+
+
 }
